@@ -47,7 +47,7 @@ from libs.yolo_io import TXT_EXT
 from libs.ustr import ustr
 from libs.hashableQListWidgetItem import HashableQListWidgetItem
 
-__appname__ = 'labelImg'
+__appname__ = 'labelImg 台北榮總免疫風濕科 特別優化版v2 By CYlab 王浩然'
 
 
 class WindowMixin(object):
